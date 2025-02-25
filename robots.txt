@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://melissajbarber.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://melissajbarber.github.io/sitemap.xml
